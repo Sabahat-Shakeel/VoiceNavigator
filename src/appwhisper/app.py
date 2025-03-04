@@ -4,7 +4,7 @@ import webbrowser
 
 
 st.title("🤖 WebWhisper 🔊🌐")
-st.markdown("*Spreak any website name with a command like Chatgpt or Instgram...*")
+st.markdown("*Speak any website name with a command like Chatgpt or Instgram...*")
 
 
 
