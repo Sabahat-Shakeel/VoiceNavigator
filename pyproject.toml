@@ -1,0 +1,17 @@
+[project]
+name = "llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "syeda", email = "sbtshakeel61@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+llm = "llm:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
