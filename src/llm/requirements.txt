@@ -1,9 +1,9 @@
-Req:
+# Req:
 
 streamlit
 speechrecognition
 pyaudio
 
-All are libraries that are required to run the code. To install them, run the following command in the terminal:
+# All are libraries that are required to run the code. To install them, run the following command in the terminal:
 
-pip install -r requirements.txt
+# pip install -r requirements.txt
