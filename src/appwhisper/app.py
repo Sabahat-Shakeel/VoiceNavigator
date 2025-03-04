@@ -61,7 +61,7 @@ with st.expander("ℹ️ How It Works?"):
     This app dynamically converts your voice input into a URL – just **say any website name** and it will open instantly!  
     """)
 
-    import streamlit as st
+    
 
 with st.sidebar:
     st.write("""
